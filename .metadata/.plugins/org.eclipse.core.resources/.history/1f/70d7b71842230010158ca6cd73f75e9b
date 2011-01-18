@@ -1,0 +1,7 @@
+package bookingbutton
+
+class Payments {
+
+    static constraints = {
+    }
+}

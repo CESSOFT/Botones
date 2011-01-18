@@ -1,0 +1,9 @@
+package bookingbutton
+
+class PaymentMetho {
+	Long PaymentMethod;
+	String PaymentMethod;
+
+    static constraints = {
+    }
+}

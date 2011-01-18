@@ -1,0 +1,10 @@
+package bookingbutton
+
+class Payments {
+	Long Pay_id;
+	BigDecima PaymentAmount
+	String PaymentComments
+
+    static constraints = {
+    }
+}

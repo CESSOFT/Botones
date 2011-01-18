@@ -1,0 +1,5 @@
+#Tue Jan 18 17:49:13 ART 2011
+forceRebuildOnUpgrade=true
+eclipse.preferences.version=1
+eclipse.m2.defaultRuntime=/usr/local/share/soft/springsource/maven-2.2.1.RELEASE
+eclipse.m2.runtimes=/usr/local/share/soft/springsource/maven-2.2.1.RELEASE
