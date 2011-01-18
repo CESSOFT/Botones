@@ -1,7 +1,0 @@
-package bookingbutton
-
-class Customers {
-
-    static constraints = {
-    }
-}

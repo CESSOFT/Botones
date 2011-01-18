@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<section name="Workbench">
-	<section name="com.springsource.sts.grails.ui.internal.inplace.GrailsInplaceDialog">
-		<item value="455" key="size.width"/>
-		<item value="89" key="size.height"/>
-		<item value="741" key="location.x"/>
-		<item value="483" key="location.y"/>
-	</section>
-</section>
