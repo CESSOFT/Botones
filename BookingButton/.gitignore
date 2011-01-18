@@ -16,3 +16,4 @@ web-app/WEB-INF/classes
 web-app/WEB-INF/
 stacktrace.log
 dtd/
+.metadata
